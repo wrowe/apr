@@ -2,13 +2,13 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{498fe114-68e5-41e6-b5de-d3301cfdf1a5}</UniqueIdentifier>
+      <UniqueIdentifier>{7dd2732e-ef85-4a2a-a8b8-fdd33d4fe433}</UniqueIdentifier>
     </Filter>
     <Filter Include="Public Header Files">
-      <UniqueIdentifier>{a3447dde-0cb7-4ef5-8748-155865fdbdd2}</UniqueIdentifier>
+      <UniqueIdentifier>{311aa157-4e77-445a-90c1-d4fd1065153d}</UniqueIdentifier>
     </Filter>
     <Filter Include="Internal Header Files">
-      <UniqueIdentifier>{0b30b722-8ee3-4035-bae4-9c1e62ce9410}</UniqueIdentifier>
+      <UniqueIdentifier>{978aecbe-0821-46f9-ba03-f8a978a78ff2}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
